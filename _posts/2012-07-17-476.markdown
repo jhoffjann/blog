@@ -1,0 +1,39 @@
+---
+layout: post
+status: publish
+published: true
+author:
+  display_name: Jannik
+  login: Jannik
+  email: mail@aufeinwort.org
+  url: ''
+author_login: Jannik
+author_email: mail@aufeinwort.org
+wordpress_id: 476
+wordpress_url: http://aufeinwort.org/?p=476
+date: '2012-07-17 23:47:07 +0200'
+date_gmt: '2012-07-17 21:47:07 +0200'
+categories:
+- Fotos
+tags:
+- uni
+- wirtschaftsinformatik
+- klausuren
+comments:
+- id: 190
+  author: Jan
+  author_email: jan@skyfighter.net
+  author_url: http://www.skyfighter.net
+  date: '2012-07-18 08:55:50 +0200'
+  date_gmt: '2012-07-18 06:55:50 +0200'
+  content: Kopf halb voll, oder eher halb leer? :D
+- id: 191
+  author: Jannik
+  author_email: mail@aufeinwort.org
+  author_url: ''
+  date: '2012-07-18 08:59:37 +0200'
+  date_gmt: '2012-07-18 06:59:37 +0200'
+  content: Ich w&uuml;rde sagen das kommt auf das Fach an.
+---
+<p><a href="http:&#47;&#47;aufeinwort.org&#47;2012&#47;07&#47;476&#47;"><img class="aligncenter size-large wp-image-477" title="wasserflasche-2" src="http:&#47;&#47;res.cloudinary.com&#47;aufeinwort-org&#47;image&#47;upload&#47;h_391,w_696&#47;v1382562688&#47;wasserflasche-2_q39dzw.jpg" alt="" width="800" height="449" &#47;><&#47;a></p>
+<p>5 Klausuren, zweieinhalb Wochen, viel zu viel zu tun.</p>

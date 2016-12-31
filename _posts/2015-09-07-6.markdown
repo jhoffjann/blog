@@ -1,0 +1,41 @@
+---
+layout: podcast
+status: publish
+published: true
+title: 'aufeinwort Podcast #6 - 99 problems and a topic ain''t one'
+author:
+  display_name: Jannik
+  login: Jannik
+  email: mail@aufeinwort.org
+  url: ''
+author_login: Jannik
+author_email: mail@aufeinwort.org
+wordpress_id: 1268
+wordpress_url: http://aufeinwort.org/?post_type=podcast&#038;p=1268
+date: '2015-09-07 21:48:57 +0200'
+date_gmt: '2015-09-07 20:48:57 +0200'
+categories: []
+tags:
+- podcast
+comments: []
+---
+<ul>
+<li>Anfangsgepl&auml;nkel<&#47;li>
+<li>Tr&auml;ume, W&uuml;nsche<&#47;li>
+<li>Mittelgepl&auml;nkel<&#47;li>
+<li>Messenger
+<ul>
+<li><a href="https:&#47;&#47;threema.ch&#47;de&#47;">Threema<&#47;a><&#47;li>
+<li><a href="https:&#47;&#47;itunes.apple.com&#47;de&#47;app&#47;wire&#47;id930944768?mt=8">Wire<&#47;a><&#47;li>
+<li><a href="https:&#47;&#47;www.whatsapp.com&#47;?l=de">Whatsapp<&#47;a><&#47;li>
+<li><a href="http:&#47;&#47;www.apple.com&#47;de&#47;ios&#47;messages&#47;">iMessage<&#47;a><&#47;li>
+<li><a href="http:&#47;&#47;telegram.com&#47;">Telegram<&#47;a><&#47;li><br />
+<&#47;ul><br />
+<&#47;li></p>
+<li><a href="https:&#47;&#47;www.joylent.eu&#47;">Joylent<&#47;a>
+<ul>
+<li><a href="https:&#47;&#47;www.soylent.com&#47;">Soylent<&#47;a><&#47;li>
+<li><a href="http:&#47;&#47;halbwissen.co&#47;">Gef&auml;hrliches Halbwissen<&#47;a><&#47;li><br />
+<&#47;ul><br />
+<&#47;li><br />
+<&#47;ul></p>

@@ -1,0 +1,35 @@
+---
+layout: post
+status: publish
+published: true
+author:
+  display_name: Jannik
+  login: Jannik
+  email: mail@aufeinwort.org
+  url: ''
+author_login: Jannik
+author_email: mail@aufeinwort.org
+wordpress_id: 788
+wordpress_url: http://aufeinwort.org/?p=788
+date: '2012-12-11 11:42:24 +0100'
+date_gmt: '2012-12-11 09:42:24 +0100'
+categories:
+- Fotos
+tags: []
+comments:
+- id: 29013
+  author: Hugo
+  author_email: g28xb6a2@gmail.com
+  author_url: http://www.facebook.com/profile.php?id=100003469723035
+  date: '2015-12-20 03:52:57 +0100'
+  date_gmt: '2015-12-20 02:52:57 +0100'
+  content: Since he did not spare even his own Son but gave him up for us all, won't
+    he also give us everything else? Galatians 5:4 You who are trinyg to be justified
+    by law have been alienated from Christ; you have fallen away from grace .Galatians
+    3:10  For all who rely on works of the law are under a curse; for it is written,
+    &ldquo;Cursed be everyone who does not abide by all things written in the Book
+    of the Law, and do them.&rdquo;(there are 613 Old Covenant Laws)Galatians 3:11  Now
+    it is evident that no one is justified before God by the law, for &ldquo;The righteous
+    shall live by faith.&rdquo;
+---
+<p><a href="http:&#47;&#47;res.cloudinary.com&#47;aufeinwort-org&#47;image&#47;upload&#47;v1382562622&#47;1-1-P1010564-001_ncut51.jpg"><img src="http:&#47;&#47;res.cloudinary.com&#47;aufeinwort-org&#47;image&#47;upload&#47;v1382562622&#47;1-1-P1010564-001_ncut51.jpg" alt="" title="1-1-P1010564-001" width="900" class="aligncenter size-full wp-image-792" &#47;><&#47;a></p>

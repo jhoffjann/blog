@@ -1,0 +1,50 @@
+---
+layout: post
+status: publish
+published: true
+title: Losstop
+author:
+  display_name: Jannik
+  login: Jannik
+  email: mail@aufeinwort.org
+  url: ''
+author_login: Jannik
+author_email: mail@aufeinwort.org
+wordpress_id: 284
+wordpress_url: http://aufeinwort.org/?p=284
+date: '2012-05-03 09:52:10 +0200'
+date_gmt: '2012-05-03 08:52:10 +0200'
+categories:
+- Video
+tags:
+- poetry slam
+- daniel
+- youtube
+- losstop
+comments:
+- id: 29059
+  author: Jesus
+  author_email: ewshm89bb9x@outlook.com
+  author_url: http://www.facebook.com/profile.php?id=100003469600134
+  date: '2015-12-20 04:27:16 +0100'
+  date_gmt: '2015-12-20 03:27:16 +0100'
+  content: Justin Hitchborn (hitchface) &#47; November 29, 2007<&#47;a>I wasn't using
+    a ground based GPS in the plane, it was spificec for the application. I follow
+    you though In general, I like the feel of the whole podcast, just so long as people
+    know that good solid hard skills in the field will get them places in case the
+    GPS conks out.Reply<&#47;a>
+- id: 136407
+  author: http:&#47;&#47;www.paquetesislamargarita.com&#47;
+  author_email: gwek7iztz@gmail.com
+  author_url: http://www.paquetesislamargarita.com/
+  date: '2016-05-13 01:53:33 +0200'
+  date_gmt: '2016-05-13 00:53:33 +0200'
+  content: volkan &#47; 05 Ocak 2012<&#47;a>nerden biliyorsun i&Aring;&Yuml;siz g&Atilde;&frac14;&Atilde;&sect;s&Atilde;&frac14;z
+    olduklar&Auml;&plusmn;n&Auml;&plusmn;.bug&Atilde;&frac14;n denk geldi ilk ben
+    yazd&Auml;&plusmn;m emeklili&Auml;&Yuml;ime 9 sene kalm&Auml;&plusmn;&Aring;&Yuml;
+    i&Aring;&Yuml;siz g&Atilde;&frac14;&Atilde;&sect;s&Atilde;&frac14;z tayfas&Auml;&plusmn;
+    diyorsun akl&Auml;&plusmn;n&Auml;&plusmn;za geleni yazmay&Auml;&plusmn;nCevaplamak
+    i&Atilde;&sect;in giri&Aring;&Yuml; yap&Auml;&plusmn;n<&#47;a>
+---
+<p><iframe width="600" height="335" src="http:&#47;&#47;www.youtube.com&#47;embed&#47;dOnY_XzxtEY?rel=0" frameborder="0" allowfullscreen><&#47;iframe></p>
+<p><a href="https:&#47;&#47;twitter.com&#47;#!&#47;danjel">Daniel<&#47;a> redet schnell, viel und meistens &uuml;ber ziemlich lustige Dinge. Dieses Mal hat er alles bei einem Poetry Slam in seiner vollendsten Vollendung betrieben. Angucken und Abonnieren!</p>

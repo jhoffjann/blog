@@ -1,0 +1,55 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Aufreger: ✔✔'
+author:
+  display_name: Jannik
+  login: Jannik
+  email: mail@aufeinwort.org
+  url: ''
+author_login: Jannik
+author_email: mail@aufeinwort.org
+wordpress_id: 367
+wordpress_url: http://aufeinwort.org/?p=367
+date: '2012-06-02 13:07:36 +0200'
+date_gmt: '2012-06-02 11:07:36 +0200'
+categories:
+- Konsum
+tags:
+- internet
+- nachrichten
+- gelesen
+- terror
+- aufreger
+comments:
+- id: 176
+  author: Marcel
+  author_email: mkozycki@googlemail.com
+  author_url: http://fifabase.de
+  date: '2012-06-19 12:44:29 +0200'
+  date_gmt: '2012-06-19 10:44:29 +0200'
+  content: "Ich will ja nicht klugscheissen, aber mit deiner Erkl&auml;rung zu den
+    zwei WhatsApp Haken hast du unrecht. ;) (Ich nahm das f&auml;lschlicherweise aber
+    auch immer genau so an.)\r\n\r\nHier die offizielle Erkl&auml;rung: \"2 Haken
+    - Nachricht wurde erfolgreich an das Telefon Ihres Chatpartners &uuml;bertragen.
+    (Hinweis: Dies bedeutet nicht, dass die Nachricht gelesen wurde, sondern nur,
+    dass das Handy Ihres Chatpartners die Nachricht empfangen hat)\"\r\n(Quelle: http:&#47;&#47;www.whatsapp.com&#47;faq&#47;?l=de)\r\n\r\nAnsonsten
+    hast du aber vollkommen Recht. Diese Lesebest&auml;tigungen sind einfach nonsens.
+    Irgendwie vermisse ich die Zeit von ICQ und MSN.. da gab es so ein Quatsch noch
+    nicht."
+- id: 177
+  author: Jannik
+  author_email: mail@aufeinwort.org
+  author_url: ''
+  date: '2012-06-19 21:49:11 +0200'
+  date_gmt: '2012-06-19 19:49:11 +0200'
+  content: "Okay. Das ist mir tats&auml;chlich neu. Habe es dann wohl wirklich falsch
+    verstanden.\r\nHab es korrigiert, danke!"
+---
+<p>Seitdem ich mir vor Ewigkeiten mein erstes Smartphone kaufte bin ich ihnen erlegen, den zwei kleinen Haken in Whatsapp neben einer eigenen Nachricht. &nbsp;Der erste signalisiert mir ob meine Nachricht erfolgreich versandt wurde, der zweite ob meine Nachricht gelesen wurde. Dieser zweite Haken ist ein Teufelswerkzeug, wer auch immer dieses Feature erfand hat sich zum Ziel gesetzt uns zu terrorisieren und uns keine Ruhe zu geben.</p>
+<p>Und jetzt zieht ein gro&szlig;er anderer Anbieter hinterher: Auch Facebook hat dieses Feature nun implementiert. Seit kurzem steht unter einer eigenen Nachricht, sobald das Gegen&uuml;ber das Chatfenster nur ge&ouml;ffnet hat: "Gesehen um xx:xx Uhr". Als ich das vor kurzem sah w&auml;re ich am liebsten laut schreiend aufgesprungen und h&auml;tte meinen technische Errungenschaften aus dem Fenster geschmissen. Dieses Feature ist meiner Meinung nach eine Kontrolle die Niemand verdient hat und die Niemand aus&uuml;ben d&uuml;rfen sollte. Es ist etwas anderes ob ich extrem wichtige Dokumente per Einschreiben schicke um sicherzugehen, dass sie wirklich ankommen und gelesen werden, ob ich bei sehr wichtigen Mails eine Lesebest&auml;tigung anfordere (hier hab ich aber noch die M&ouml;glichkeit diese zu verweigern), oder ob ich dem Sender grunds&auml;tzlich verrate, ob der Empf&auml;nger die Nachricht gelesen hat, oder nicht. Das fordert grunds&auml;tzlich Konflikte und ich merke selber wie ich w&uuml;tend werde, wenn ich wei&szlig;, dass der Empf&auml;nger meine Nachricht gelesen hat, aber nicht auf sie antwortet. Es verbaut einem jegliche M&ouml;glichkeit, sich mit Antworten Zeit zu lassen, nachzudenken, oder Leute einfach mal zu ignorieren. Ich habe ja auch nicht immer Lust mich zu unterhalten. Nein, es zwingt mich sogar zu einer Konversation, die ich vielleicht gar nicht will, es verlangt mir ab, zu antworten, weil es ja sonst zur Folge haben k&ouml;nnte, dass ich in der Gunst der anderen Person sinke.</p>
+<p>Dies hat zur Folge, dass ich Konsequenzen ziehe die ich eigentlich noch weniger will. Am Smartphone weiche ich inzwischen ganz gerne auf SMS, oder Gruppenchats (da gibt es nur den Sendehaken), bei Facebook bleibe ich immer &ouml;fter offline und &uuml;berlege vorher, ob ich bereit w&auml;re mit allen m&ouml;glichen zu schreiben. Die andere M&ouml;glichkeit w&auml;re dort Leute in Listen einzusortieren und dann f&uuml;r bestimmte Listen offline zu gehen. Aber Leuten gleich den Stempel 'Unwichtig' aufdr&uuml;cken? Nein, das finde ich noch schlimmer.<br />
+Bitte liebe Nachrichtengro&szlig;anbieter, &auml;ndert das.</p>
+<p>Edit:<br />
+Marcel offenbarte, dass ich Whatsapp falsch verstanden habe. Der zweite Haken steht nicht f&uuml;rs "Gelesen". Aber der Rest ist trotzdem wie vorher. </p>
