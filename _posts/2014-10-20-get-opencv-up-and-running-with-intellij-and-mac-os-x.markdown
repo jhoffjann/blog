@@ -17,42 +17,6 @@ date_gmt: '2014-10-20 14:43:23 +0200'
 categories:
 - Coding
 tags: []
-comments:
-- id: 4300
-  author: Kubra
-  author_email: ce.kubra@gmail.com
-  author_url: ''
-  date: '2015-03-18 14:09:09 +0100'
-  date_gmt: '2015-03-18 13:09:09 +0100'
-  content: "Hi,\r\n\r\nFirstly thank you because this sharing is newest for openCV
-    for IntelliJ, but I had a problem. After \"sudo make install\" I had no opencv-2410.jar.
-    What can be the problem with it ?\r\n\r\nThanks again."
-- id: 4301
-  author: Jannik
-  author_email: mail@aufeinwort.org
-  author_url: ''
-  date: '2015-03-18 14:54:23 +0100'
-  date_gmt: '2015-03-18 13:54:23 +0100'
-  content: "Hi Kubra,\r\n\r\nGlad this helped you. I had the same problem at first.
-    Please check again you have all the prerequisites (Java, Ant, Python, cmake) installed.
-    OpenCV is using all of them during the Compilation process to build the packages.\r\n\r\nGood
-    Luck."
-- id: 4696
-  author: Victor
-  author_email: vdgp@yahoo.com
-  author_url: ''
-  date: '2015-09-13 20:34:09 +0200'
-  date_gmt: '2015-09-13 19:34:09 +0200'
-  content: "Hi, \r\n\r\n\r\nI recomend, verify if you have installed ant and its JAVA_HOME
-    variable is set correctly."
-- id: 45767
-  author: Asinus_Rex
-  author_email: elburro94@yahoo.es
-  author_url: ''
-  date: '2016-01-08 21:10:56 +0100'
-  date_gmt: '2016-01-08 20:10:56 +0100'
-  content: There is an issue with this version of opencv on Yosemite, try a newer
-    version of the library.
 ---
 <p>Edit 4.11.2014: Updated for OpenCV 2.4.10</p>
 <p>The last weeks I spent a lot of time to get OpenCV up and running with IntelliJ. I will use the OpenCV library for my Bachelor Thesis so it was somehow really important for me to test the possibilities of this library together with Java.</p>
