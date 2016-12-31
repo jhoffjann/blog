@@ -1,25 +1,11 @@
 ---
+id: 671
+date: 2012-11-03T15:04:58+00:00
+author: Jannik
 layout: post
-status: publish
-published: true
-author:
-  display_name: Jannik
-  login: Jannik
-  email: mail@aufeinwort.org
-  url: ''
-author_login: Jannik
-author_email: mail@aufeinwort.org
-wordpress_id: 671
-wordpress_url: http://aufeinwort.org/?p=671
-date: '2012-11-03 15:04:58 +0100'
-date_gmt: '2012-11-03 13:04:58 +0100'
+guid: http://aufeinwort.org/?p=671
+permalink: /2012/11/671/
 categories:
-- Musik
-tags:
-- konzert
-- seeed
-- augenbling
-comments: []
+  - Musik
 ---
-<p><iframe src="http:&#47;&#47;www.youtube.com&#47;embed&#47;qttGJ3il62Y?rel=0" frameborder="0" width="900" height="504"><&#47;iframe></p>
-<p>&nbsp;</p>
+&nbsp;

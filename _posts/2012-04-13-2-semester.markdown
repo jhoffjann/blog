@@ -1,50 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
+id: 204
 title: 2. Semester
-author:
-  display_name: Jannik
-  login: Jannik
-  email: mail@aufeinwort.org
-  url: ''
-author_login: Jannik
-author_email: mail@aufeinwort.org
-wordpress_id: 204
-wordpress_url: http://aufeinwort.org/?p=204
-date: '2012-04-13 17:05:59 +0200'
-date_gmt: '2012-04-13 16:05:59 +0200'
+date: 2012-04-13T17:05:59+00:00
+author: Jannik
+layout: post
+guid: http://aufeinwort.org/?p=204
+permalink: /2012/04/2-semester/
 categories:
-- Leben.
-tags:
-- uni
-- wirtschaftsinformatik
-- stundenplan
-- shit
-comments:
-- id: 33
-  author: Adrian
-  author_email: info@rckrz.de
-  author_url: http://rckrz.de
-  date: '2012-04-13 18:34:45 +0200'
-  date_gmt: '2012-04-13 17:34:45 +0200'
-  content: Dein Montag sieht doch fein aus sonst. Aber ey, ihr habt immer zwei volle
-    Stunden?
-- id: 34
-  author: Jannik
-  author_email: mail@aufeinwort.org
-  author_url: ''
-  date: '2012-04-13 18:36:05 +0200'
-  date_gmt: '2012-04-13 17:36:05 +0200'
-  content: Ne. Das ist alles c.t.. F&auml;ngt also eine Viertelstunde sp&auml;ter
-    an und h&ouml;rt eine Viertelstunde eher auf.
-- id: 35
-  author: Basti
-  author_email: basti@magdeblog.de
-  author_url: http://magdeblog.de
-  date: '2012-04-13 19:25:31 +0200'
-  date_gmt: '2012-04-13 18:25:31 +0200'
-  content: Wir nannten es liebevoll das AUSSCHLAFSEMESTER!
+  - Leben.
 ---
-<p><a href="http:&#47;&#47;res.cloudinary.com&#47;aufeinwort-org&#47;image&#47;upload&#47;v1382562369&#47;Bildschirmfoto-2012-04-13-um-18_04_57_hhhyuh.png"><img class="aligncenter size-large wp-image-206" title="Bildschirmfoto 2012-04-13 um 18.04.57" src="http:&#47;&#47;res.cloudinary.com&#47;aufeinwort-org&#47;image&#47;upload&#47;h_403,w_696&#47;v1382562369&#47;Bildschirmfoto-2012-04-13-um-18_04_57_hhhyuh.png" alt="" width="800" height="464" &#47;><&#47;a></p>
-<p>Montag geht es los. Will jemand mit mir Stundenpl&auml;ne tauschen? Habe Doppelbelegungen zu verschenken.</p>
+[<img class="aligncenter size-large wp-image-206" title="Bildschirmfoto 2012-04-13 um 18.04.57" src="http://res.cloudinary.com/aufeinwort-org/image/upload/h_403,w_696/v1382562369/Bildschirmfoto-2012-04-13-um-18_04_57_hhhyuh.png" alt="" width="800" height="464" />](http://res.cloudinary.com/aufeinwort-org/image/upload/v1382562369/Bildschirmfoto-2012-04-13-um-18_04_57_hhhyuh.png)
+
+Montag geht es los. Will jemand mit mir Stundenpläne tauschen? Habe Doppelbelegungen zu verschenken.

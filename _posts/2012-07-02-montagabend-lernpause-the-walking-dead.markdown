@@ -1,27 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
+id: 421
 title: Montagabend. Lernpause. The Walking Dead.
-author:
-  display_name: Jannik
-  login: Jannik
-  email: mail@aufeinwort.org
-  url: ''
-author_login: Jannik
-author_email: mail@aufeinwort.org
-wordpress_id: 421
-wordpress_url: http://aufeinwort.org/?p=421
-date: '2012-07-02 22:01:01 +0200'
-date_gmt: '2012-07-02 20:01:01 +0200'
+date: 2012-07-02T22:01:01+00:00
+author: Jannik
+layout: post
+guid: http://aufeinwort.org/?p=421
+permalink: /2012/07/montagabend-lernpause-the-walking-dead/
 categories:
-- Games
-tags:
-- konsum
-- uni
-- pause
-- twd
-- comics
-comments: []
+  - Games
 ---
-<p><a href="http:&#47;&#47;res.cloudinary.com&#47;aufeinwort-org&#47;image&#47;upload&#47;v1382562695&#47;P1030549_qwxm5w.jpg"><img src="http:&#47;&#47;res.cloudinary.com&#47;aufeinwort-org&#47;image&#47;upload&#47;h_391,w_696&#47;v1382562695&#47;P1030549_qwxm5w.jpg" alt="" title="P1030549" width="800" height="449" class="aligncenter size-large wp-image-422" &#47;><&#47;a></p>
+[<img src="http://res.cloudinary.com/aufeinwort-org/image/upload/h_391,w_696/v1382562695/P1030549_qwxm5w.jpg" alt="" title="P1030549" width="800" height="449" class="aligncenter size-large wp-image-422" />](http://res.cloudinary.com/aufeinwort-org/image/upload/v1382562695/P1030549_qwxm5w.jpg)

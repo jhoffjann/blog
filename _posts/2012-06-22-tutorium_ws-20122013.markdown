@@ -1,78 +1,18 @@
 ---
+id: 394
+title: Tutorium_WS 2012/2013
+date: 2012-06-22T17:29:53+00:00
+author: Jannik
 layout: post
-status: publish
-published: true
-title: Tutorium_WS 2012&#47;2013
-author:
-  display_name: Jannik
-  login: Jannik
-  email: mail@aufeinwort.org
-  url: ''
-author_login: Jannik
-author_email: mail@aufeinwort.org
-wordpress_id: 394
-wordpress_url: http://aufeinwort.org/?p=394
-date: '2012-06-22 17:29:53 +0200'
-date_gmt: '2012-06-22 15:29:53 +0200'
+guid: http://aufeinwort.org/?p=394
+permalink: /2012/06/tutorium_ws-20122013/
 categories:
-- Leben.
-tags:
-- tutor
-- wirtsc
-- studium
-- money
-comments:
-- id: 180
-  author: Jan
-  author_email: jan@skyfighter.net
-  author_url: http://www.skyfighter.net
-  date: '2012-06-27 10:05:06 +0200'
-  date_gmt: '2012-06-27 08:05:06 +0200'
-  content: Gratulation, du Streber! :)
-- id: 181
-  author: Jannik
-  author_email: mail@aufeinwort.org
-  author_url: ''
-  date: '2012-06-28 01:12:13 +0200'
-  date_gmt: '2012-06-27 23:12:13 +0200'
-  content: Danke! :)
-- id: 29141
-  author: Zenilda
-  author_email: h93hwk1312h@hotmail.com
-  author_url: http://www.facebook.com/profile.php?id=100003469738714
-  date: '2015-12-20 05:50:10 +0100'
-  date_gmt: '2015-12-20 04:50:10 +0100'
-  content: ', the forests are owned by priavte logging companies, and while there''s
-    been a moratorium on other logging near local communities, this beautiful rural
-    location is exempt.  So the villagers have been frantically trying to raise millions
-    of dollars to buy sections of the forest around the town to prevent it becoming  The
-    Village in the Clear-cut .It''s an expanding community, with lots of newly oil-rich
-    Albertans coming to buy property there.  So the logging companies stand to make
-    a lot of money from sales to development companies.Coming from England, with our
-    green belt protection of land that''s already been tamed and pasteurised over
-    thousands of years, all this seems incredible to me.It all has an importance to
-    me that wasn''t there before.So thank you for this lovely video, with its brilliant
-    mix of personal and global   it was well-timed  Hope to see a lot more of your
-    films now, especially if you''re taking part in Semanal'
-- id: 81323
-  author: auto insurance Gatlinburg TN
-  author_email: j99g4595@mail.com
-  author_url: http://autoinsuranceisn.info/TN/Gatlinburg/
-  date: '2016-03-07 02:51:05 +0100'
-  date_gmt: '2016-03-07 01:51:05 +0100'
-  content: Thanks for your thoughts. It's helped me a lot.
-- id: 118228
-  author: http:&#47;&#47;www.sorethumbsblog.com&#47;
-  author_email: 18wpn3ljeib@outlook.com
-  author_url: http://www.sorethumbsblog.com/
-  date: '2016-04-29 02:19:26 +0200'
-  date_gmt: '2016-04-29 01:19:26 +0200'
-  content: Yeah! Mamak is back! It&#039;s cruel to look at all my faovurite food on
-    your post and not able to taste them. Love to start my day with reading a great
-    post like this! The odd orange hue on ayam goreng....... from malaysian curry
-    powder? hehe.. some of the malaysian meat curry powder is orange, not yellow.
+  - Leben.
 ---
-<p>&nbsp;</p>
-<blockquote><p>Ich freue mich, Ihnen die Tutoriumsstelle anbieten zu k&ouml;nnen.<&#47;blockquote><br />
-&nbsp;</p>
-<p>N&auml;chstes Semester also ganz Streberlike mit Geld und als Tutor unterwegs. Freut euch mit mir! \o&#47;</p>
+&nbsp;
+
+> Ich freue mich, Ihnen die Tutoriumsstelle anbieten zu können.
+
+&nbsp;
+
+Nächstes Semester also ganz Streberlike mit Geld und als Tutor unterwegs. Freut euch mit mir! \o/

@@ -1,29 +1,16 @@
 ---
-layout: post
-status: publish
-published: true
+id: 538
 title: Sam Musik
-author:
-  display_name: Jannik
-  login: Jannik
-  email: mail@aufeinwort.org
-  url: ''
-author_login: Jannik
-author_email: mail@aufeinwort.org
-wordpress_id: 538
-wordpress_url: http://aufeinwort.org/?p=538
-date: '2012-09-27 08:44:23 +0200'
-date_gmt: '2012-09-27 06:44:23 +0200'
+date: 2012-09-27T08:44:23+00:00
+author: Jannik
+layout: post
+guid: http://aufeinwort.org/?p=538
+permalink: /2012/09/sam-musik/
 categories:
-- Musik
-tags:
-- sam musik
-- rap
-- deutsch
-- new
-- gut
-comments: []
+  - Musik
 ---
-<p>Vor einiger Zeit stellte <a href="https:&#47;&#47;twitter.com&#47;_spohie_">Frau Sophie<&#47;a> auf ihrem Blog Sam Musik vor. Die beiden Br&uuml;der, von denen einer rappt und der andere dj't, sind ein weiterer Teil des neuen deutschen Rap, welchen ich so gro&szlig;artig finde. Genauso, wie Cro oder die Orsons sind sie seit neuestem auch bei <a href="http:&#47;&#47;oberbilkoverthetop.wordpress.com&#47;2012&#47;09&#47;26&#47;sam-musik-bei-chimperator&#47;">Chimperator unter Vertrag<&#47;a> und es soll nun f&uuml;r die Beiden hoch hinaus gehen.</p>
-<p>Sie machen sehr coole und entspannte Rap-Musik, die beim ersten H&ouml;ren sehr in die Richtung Cro geht. Ich kann mit ihren Kl&auml;ngen zur Zeit jedoch weit mehr Anfangen als mit dem was Cro uns mit seinem <a href="http:&#47;&#47;aufeinwort.org&#47;2012&#47;07&#47;uber-raop-von-cro&#47;">Album<&#47;a> pr&auml;sentiert hat. Zumindest wird am kommenden Montag wird es eine Neuauflage ihres Mixtapes geben. Suchmaschinenerfahrene finden bestimmt auch noch einen Downloadlink mit der "Urversion". Das Ding m&ouml;chte ich euch unbedingt sehr ans Herz legen, davon m&ouml;chtet ihr besonders "Jukebox" h&ouml;ren und es gut finden.</p>
-<p>Bis dahin solltet ihr euch mit dem Video zu "Liebe zur Musik" zufrieden geben und die Jungs bei <a href="https:&#47;&#47;www.facebook.com&#47;SamsWelt">Facebook<&#47;a> verfolgen. </p>
+Vor einiger Zeit stellte [Frau Sophie](https://twitter.com/_spohie_) auf ihrem Blog Sam Musik vor. Die beiden Brüder, von denen einer rappt und der andere dj&#8217;t, sind ein weiterer Teil des neuen deutschen Rap, welchen ich so großartig finde. Genauso, wie Cro oder die Orsons sind sie seit neuestem auch bei [Chimperator unter Vertrag](http://oberbilkoverthetop.wordpress.com/2012/09/26/sam-musik-bei-chimperator/) und es soll nun für die Beiden hoch hinaus gehen.
+
+Sie machen sehr coole und entspannte Rap-Musik, die beim ersten Hören sehr in die Richtung Cro geht. Ich kann mit ihren Klängen zur Zeit jedoch weit mehr Anfangen als mit dem was Cro uns mit seinem [Album](http://aufeinwort.org/2012/07/uber-raop-von-cro/) präsentiert hat. Zumindest wird am kommenden Montag wird es eine Neuauflage ihres Mixtapes geben. Suchmaschinenerfahrene finden bestimmt auch noch einen Downloadlink mit der &#8220;Urversion&#8221;. Das Ding möchte ich euch unbedingt sehr ans Herz legen, davon möchtet ihr besonders &#8220;Jukebox&#8221; hören und es gut finden.
+
+Bis dahin solltet ihr euch mit dem Video zu &#8220;Liebe zur Musik&#8221; zufrieden geben und die Jungs bei [Facebook](https://www.facebook.com/SamsWelt) verfolgen.

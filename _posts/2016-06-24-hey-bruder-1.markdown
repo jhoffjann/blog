@@ -1,26 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
+id: 1289
 title: 'Hey Bruder #1'
-author:
-  display_name: Jannik
-  login: Jannik
-  email: mail@aufeinwort.org
-  url: ''
-author_login: Jannik
-author_email: mail@aufeinwort.org
-wordpress_id: 1289
-wordpress_url: http://aufeinwort.org/?p=1289
-date: '2016-06-24 12:05:34 +0200'
-date_gmt: '2016-06-24 11:05:34 +0200'
+date: 2016-06-24T12:05:34+00:00
+author: Jannik
+layout: post
+guid: http://aufeinwort.org/?p=1289
+permalink: /2016/06/hey-bruder-1/
 categories:
-- Podcast
-tags:
-- podcast
-- hey bruder
-comments: []
+  - Podcast
 ---
-<p>Man kann nie genug Podcasts haben. Deshalb haben <a href="https:&#47;&#47;twitter.com&#47;lenn_rt">Lennart<&#47;a> und ich beschlossen einen exklusiven Bruder-Podcast zu beginnen. Zu finden sind wir auf <a href="https:&#47;&#47;soundcloud.com&#47;user-945823537">Soundcloud<&#47;a>, bei <a href="http:&#47;&#47;heybruder.tumblr.com&#47;">Tumblr<&#47;a> und nat&uuml;rlich auch bei <a href="https:&#47;&#47;itunes.apple.com&#47;de&#47;podcast&#47;hey-bruder&#47;id1126804699?mt=2">iTunes<&#47;a>.</p>
-<p>&nbsp;</p>
-<p><iframe width="100%" height="450" scrolling="no" frameborder="no" src="https:&#47;&#47;w.soundcloud.com&#47;player&#47;?url=https%3A&#47;&#47;api.soundcloud.com&#47;tracks&#47;270316825&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"><&#47;iframe></p>
+Man kann nie genug Podcasts haben. Deshalb haben [Lennart](https://twitter.com/lenn_rt) und ich beschlossen einen exklusiven Bruder-Podcast zu beginnen. Zu finden sind wir auf [Soundcloud](https://soundcloud.com/user-945823537), bei [Tumblr](http://heybruder.tumblr.com/) und natürlich auch bei [iTunes](https://itunes.apple.com/de/podcast/hey-bruder/id1126804699?mt=2).
+
+&nbsp;
