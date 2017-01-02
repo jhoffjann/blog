@@ -6,6 +6,7 @@ author: Jannik
 layout: post
 guid: http://aufeinwort.org/?p=1298
 permalink: /2016/07/hey-bruder-2-the-productivity-in-the-room/
+blog: true
 categories:
   - Podcast
 ---
