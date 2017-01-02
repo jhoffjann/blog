@@ -6,6 +6,7 @@ author: Jannik
 layout: post
 guid: http://aufeinwort.org/?p=509
 permalink: /2012/08/crazy-heart/
+blog: true
 categories:
   - Konsum
 ---

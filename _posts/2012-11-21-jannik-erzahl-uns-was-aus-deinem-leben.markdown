@@ -6,6 +6,7 @@ author: Jannik
 layout: post
 guid: http://aufeinwort.org/?p=705
 permalink: /2012/11/jannik-erzahl-uns-was-aus-deinem-leben/
+blog: true
 categories:
   - Leben.
 ---

@@ -6,6 +6,7 @@ author: Jannik
 layout: post
 guid: http://aufeinwort.org/?p=855
 permalink: /2013/02/filmkurzreviewhaufen/
+blog: true
 categories:
   - Review
 ---

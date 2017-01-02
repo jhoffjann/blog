@@ -6,6 +6,7 @@ author: Jannik
 layout: post
 guid: http://aufeinwort.org/?p=911
 permalink: /2013/07/wie-mein-leben-gerade-aussieht/
+blog: true
 categories:
   - Leben.
 format: image

@@ -6,6 +6,7 @@ author: Jannik
 layout: post
 guid: http://aufeinwort.org/?p=1289
 permalink: /2016/06/hey-bruder-1/
+blog: true
 categories:
   - Podcast
 ---

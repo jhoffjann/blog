@@ -6,6 +6,7 @@ author: Jannik
 layout: post
 guid: http://aufeinwort.org/?p=552
 permalink: /2012/10/und-dann-zog-ich-einfach-um/
+blog: true
 categories:
   - Leben.
 ---

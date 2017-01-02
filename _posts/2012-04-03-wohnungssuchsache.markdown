@@ -6,6 +6,7 @@ author: Jannik
 layout: post
 guid: http://aufeinwort.org/?p=177
 permalink: /2012/04/wohnungssuchsache/
+blog: true
 categories:
   - Leben.
 ---

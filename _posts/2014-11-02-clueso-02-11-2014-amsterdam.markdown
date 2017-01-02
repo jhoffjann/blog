@@ -7,6 +7,7 @@ layout: post
 guid: http://aufeinwort.org/?p=1205
 permalink: /2014/11/clueso-02-11-2014-amsterdam/
 image: /wp-content/uploads/2015/01/10549258_10204011006469003_4476883537737129672_o-825x510.jpg
+blog: true
 categories:
   - Musik
 ---

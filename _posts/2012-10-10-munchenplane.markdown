@@ -6,6 +6,7 @@ author: Jannik
 layout: post
 guid: http://aufeinwort.org/?p=593
 permalink: /2012/10/munchenplane/
+blog: true
 categories:
   - Leben.
 ---

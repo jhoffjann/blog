@@ -6,6 +6,7 @@ author: Jannik
 layout: post
 guid: http://aufeinwort.org/?p=848
 permalink: /2013/02/blogs-blogs-blogs/
+blog: true
 categories:
   - Konsum
 ---

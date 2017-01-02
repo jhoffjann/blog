@@ -6,6 +6,7 @@ author: Jannik
 layout: post
 guid: http://aufeinwort.org/?p=445
 permalink: /2012/07/uber-raop-von-cro/
+blog: true
 categories:
   - Review
 ---
