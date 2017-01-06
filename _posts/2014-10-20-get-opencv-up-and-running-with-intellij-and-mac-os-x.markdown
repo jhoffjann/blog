@@ -28,11 +28,12 @@ Clone the Git-Repository:
 
 Switch to the folder and get the latest working version.
   
-`cd opencv</p>
-<p>git checkout 2.4.10</p>
-<p>mkdir build</p>
-<p>cd build<br />
-` 
+```
+cd opencv
+git checkout 2.4.10
+mkdir build
+cd build
+``` 
   
 Create your C++ Compiling files
   
@@ -40,8 +41,8 @@ Create your C++ Compiling files
 
 Compile the whole thing
   
-`sudo make -j8</p>
-<p>sudo make install`
+`sudo make -j8`
+`sudo make install`
 
 Now open IntelliJ and go right to the project where you want to use OpenCV.
 
@@ -51,6 +52,6 @@ After applying go to Run > Debug Configurations and insert
   
 `-Djava.library.path=<path to your buildfolder>/opencv/build/lib`
 
-And finally, you are done. Now you can just import the libraries classes via org.opencv&#8230;
+And finally, you are done. Now you can just import the libraries classes via `org.opencv&#8230;`
 
 Hope this will help at least a few people.
