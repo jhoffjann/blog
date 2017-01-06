@@ -11,7 +11,6 @@ external-image: false
 picture: assets/images/profile.jpg
 
 url: https://jannikhoffjann.de
-# your url: http://USERNAME.github.io
 
 permalink: /:title/
 
