@@ -1,26 +1,3 @@
-/*********************
-BREAKPOINTS
-*********************/
-
- @mixin breakpoint($point) {
-   @if $point == desktop {
-     @media (min-width: 70em) { @content ; }
-  }
-   @else if $point == laptop {
-     @media (min-width: 64em) { @content ; }
-  }
-    @else if $point == tablet {
-     @media (min-width: 50em) { @content ; }
-  }
-   @else if $point == phablet {
-     @media (min-width: 37.5em)  { @content ; }
-  }
-  @else if $point == mobileonly {
-     @media (max-width: 37.5em)  { @content ; }
-
-  }
-}
-
 .cv
     font: normal normal 400
     font-size: 100%
@@ -45,19 +22,18 @@ BREAKPOINTS
     > code
         font: normal normal
         font-size: 90%
-        @include breakpoint(phablet){
-            font-size: 100%;
-        }
+        @include breakpoint(xs)
+            font-size: 100%        
         font-family: Menlo, monospace, sans-serif
-        color: #aaa
+        color: #aaaaaa
         
     > p > code 
         position: absolute
         left: -20%
-        @include breakpoint(phablet){
+        @include breakpoint(xs) 
             position: relative
-            left: 0%;
-        }
+            left: 0%
+        
 
     > ul
         position: relative
@@ -68,7 +44,7 @@ BREAKPOINTS
         -webkit-columns: 3
         -moz-columns: 3
         padding-left: 0
-        @include breakpoint(phablet){
+        @include breakpoint(xs) 
             left: 0%
             margin-bottom: 1.5em
             margin-top: 1em
@@ -76,7 +52,7 @@ BREAKPOINTS
             -webkit-columns: 1
             -moz-columns: 1
             padding-left: 0
-        }
+        
 
     > li ul 
         position: relative
@@ -86,9 +62,8 @@ BREAKPOINTS
         text-align: left
         position: relative
         left: 25%
-        @include breakpoint(phablet){
-            left: 0%
-        }
+        @include breakpoint(xs) 
+            left: 0%        
 
     > h1+p 
         /*subtitle*/

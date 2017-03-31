@@ -1,9 +1,11 @@
+@import "mixins/breakpoints";
 
 @import "base/variables";
 @import "base/normalize";
 @import "base/syntax";
 @import "base/general";
 @import "base/helpers";
+
 
 @import "pages/home-blog-projects";
 @import "pages/page";
