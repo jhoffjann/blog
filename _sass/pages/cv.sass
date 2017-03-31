@@ -1,0 +1,116 @@
+/*********************
+BREAKPOINTS
+*********************/
+
+ @mixin breakpoint($point) {
+   @if $point == desktop {
+     @media (min-width: 70em) { @content ; }
+  }
+   @else if $point == laptop {
+     @media (min-width: 64em) { @content ; }
+  }
+    @else if $point == tablet {
+     @media (min-width: 50em) { @content ; }
+  }
+   @else if $point == phablet {
+     @media (min-width: 37.5em)  { @content ; }
+  }
+  @else if $point == mobileonly {
+     @media (max-width: 37.5em)  { @content ; }
+
+  }
+}
+
+.cv
+    font: normal normal 400
+    font-size: 100%
+    line-height: 1.5em
+    font-family: "Open sans", sans-serif
+    margin-top: 125px
+    margin-left: 1em
+    width: 75%
+
+    > ol 
+        list-style: none
+
+    > ul
+        list-style: none
+
+    > p
+        position: relative
+        left: 25%
+        margin-bottom: 0.7em
+        margin-right: 0
+
+    > code
+        font: normal normal
+        font-size: 90%
+        @include breakpoint(phablet){
+            font-size: 100%;
+        }
+        font-family: Menlo, monospace, sans-serif
+        color: #aaa
+        
+    > p > code 
+        position: absolute
+        left: -20%
+        @include breakpoint(phablet){
+            position: relative
+            left: 0%;
+        }
+
+    > ul
+        position: relative
+        left: 25%
+        margin-bottom: 1.5em
+        margin-top: 1em
+        columns: 3
+        -webkit-columns: 3
+        -moz-columns: 3
+        padding-left: 0
+        @include breakpoint(phablet){
+            left: 0%
+            margin-bottom: 1.5em
+            margin-top: 1em
+            columns: 1
+            -webkit-columns: 1
+            -moz-columns: 1
+            padding-left: 0
+        }
+
+    > li ul 
+        position: relative
+        left: 0
+
+    > h1 
+        text-align: left
+        position: relative
+        left: 25%
+        @include breakpoint(phablet){
+            left: 0%
+        }
+
+    > h1+p 
+        /*subtitle*/
+        font-style: italic
+        font-size: 110%
+        margin-bottom: 0em !important
+
+    > h2 
+        font-size: 1.1em
+        margin-top: 2em
+        position: relative
+        line-height: 2.5em
+        text-align: left
+        left: 25%
+
+    > h3 
+        font-size: 1em
+        line-height: 2em
+        position: relative
+        text-align: left
+        left: 25%
+
+    > h3 > a 
+        color: inherit
+        /*text-decoration:none*/

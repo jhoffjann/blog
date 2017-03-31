@@ -3,13 +3,10 @@ title: Impressum
 layout: page
 ---
 
-Jannik Hoffjann
-  
-Graelstraße 26
-  
-48153 Münster
-
-E-Mail: hallo@jannikhoffjann.de
+Jannik Hoffjann   
+Graelstraße 26   
+48153 Münster   
+jannik@hfjn.de
 
 **Haftungsausschluss**
 
