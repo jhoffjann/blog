@@ -6,6 +6,8 @@
     margin-top: 125px
     margin-left: 1em
     width: 75%
+    @include breakpoint(s)
+        width: 100%
 
     > ol 
         list-style: none
@@ -18,11 +20,13 @@
         left: 25%
         margin-bottom: 0.7em
         margin-right: 0
+        @include breakpoint(s)
+            left: 0%
 
     > code
         font: normal normal
         font-size: 90%
-        @include breakpoint(xs)
+        @include breakpoint(s)
             font-size: 100%        
         font-family: Menlo, monospace, sans-serif
         color: #aaaaaa
@@ -30,9 +34,10 @@
     > p > code 
         position: absolute
         left: -20%
-        @include breakpoint(xs) 
+        @include breakpoint(s) 
             position: relative
             left: 0%
+            display: block
         
 
     > ul
@@ -44,10 +49,15 @@
         -webkit-columns: 3
         -moz-columns: 3
         padding-left: 0
-        @include breakpoint(xs) 
+        @include breakpoint(m)
+            columns: 2
+            -webkit-columns: 2
+            -moz-columns: 2
+        @include breakpoint(s) 
             left: 0%
             margin-bottom: 1.5em
             margin-top: 1em
+        @include breakpoint(xs)
             columns: 1
             -webkit-columns: 1
             -moz-columns: 1
@@ -62,7 +72,7 @@
         text-align: left
         position: relative
         left: 25%
-        @include breakpoint(xs) 
+        @include breakpoint(s) 
             left: 0%        
 
     > h1+p 
@@ -78,6 +88,8 @@
         line-height: 2.5em
         text-align: left
         left: 25%
+        @include breakpoint(s)
+            left: 0%
 
     > h3 
         font-size: 1em
@@ -85,6 +97,8 @@
         position: relative
         text-align: left
         left: 25%
+        @include breakpoint(s)
+            left: 0%
 
     > h3 > a 
         color: inherit

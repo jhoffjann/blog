@@ -73,7 +73,7 @@ _Chair for Accounting and Information Systems_
 * Virtual machines
 
 ## Publications
-Link, D., Ling, J., Hoffjann, J., and Hellingrath, B. 2016. “A Semi-Automated Content Moderation Workflow for Humanitarian Situation Assessments,” _International Journal of Information Systems for Crisis Response and Management (IJISCRAM)_, (8:2), pp. 31–49.
+Link, D., Ling, J., Hoffjann, J., and Hellingrath, B. 2016. [A Semi-Automated Content Moderation Workflow for Humanitarian Situation Assessments](http://www.igi-global.com/article/a-semi-automated-content-moderation-workflow-for-humanitarian-situation-assessments/178583), _International Journal of Information Systems for Crisis Response and Management (IJISCRAM)_, (8:2), pp. 31–49.
 
 ## Projects
 

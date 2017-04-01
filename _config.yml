@@ -18,7 +18,7 @@ markdown: kramdown
 highlighter: rouge
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-36874117-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -36,7 +36,7 @@ instagram: aufeinwort
 # linkedin: mylinkedin
 #youtube: myyoutube
 spotify: jhoffjann
-github: jhoffjann
+github: hfjn
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
