@@ -1,14 +1,12 @@
 ---
 id: 445
-title: Über »Raop« von Cro.
-date: 2012-07-11T21:05:18+00:00
+title: "Über »Raop« von Cro."
+date: 2012-07-11 21:05:18
 author: Jannik
 layout: post
 guid: http://aufeinwort.org/?p=445
 permalink: /2012/07/uber-raop-von-cro/
-blog: true
-categories:
-  - Review
+category: blog
 ---
 <blockquote class="twitter-tweet tw-align-center" lang="de">
   <p>

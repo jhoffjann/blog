@@ -6,7 +6,7 @@ author: Jannik
 layout: post
 guid: http://aufeinwort.org/?p=1283
 permalink: /2016/03/bewegtbildbewertungsdump/
-blog: true
+category: blog
 categories:
   - Konsum
 ---

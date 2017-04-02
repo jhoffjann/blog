@@ -6,7 +6,7 @@ author: Jannik
 layout: post
 guid: http://aufeinwort.org/?p=1196
 permalink: /2014/10/get-opencv-up-and-running-with-intellij-and-mac-os-x/
-blog: true
+category: blog
 categories:
   - Coding
 ---

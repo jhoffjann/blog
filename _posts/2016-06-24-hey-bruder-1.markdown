@@ -1,15 +1,17 @@
 ---
 id: 1289
-title: 'Hey Bruder #1'
+title: 'Hey Bruder #1 - Marswohnheim'
 date: 2016-06-24T12:05:34+00:00
 author: Jannik
 layout: post
 guid: http://aufeinwort.org/?p=1289
 permalink: /2016/06/hey-bruder-1/
-blog: true
+category: blog
 categories:
   - Podcast
 ---
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/270316825&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
 Man kann nie genug Podcasts haben. Deshalb haben [Lennart](https://twitter.com/lenn_rt) und ich beschlossen einen exklusiven Bruder-Podcast zu beginnen. Zu finden sind wir auf [Soundcloud](https://soundcloud.com/user-945823537), bei [Tumblr](http://heybruder.tumblr.com/) und natürlich auch bei [iTunes](https://itunes.apple.com/de/podcast/hey-bruder/id1126804699?mt=2).
 
 &nbsp;

@@ -6,7 +6,7 @@ author: Jannik
 layout: post
 guid: http://aufeinwort.org/?p=1024
 permalink: /2013/09/finnland-roadtrip-tag-5/
-blog: true
+category: blog
 categories:
   - Finnland
 ---

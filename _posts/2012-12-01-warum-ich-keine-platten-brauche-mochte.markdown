@@ -6,7 +6,7 @@ author: Jannik
 layout: post
 guid: http://aufeinwort.org/?p=755
 permalink: /2012/12/warum-ich-keine-platten-brauche-mochte/
-blog: true
+category: blog
 categories:
   - Konsum
 ---
