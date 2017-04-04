@@ -4,43 +4,42 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I was raised in Detmold, Germany, where I also went so school and received my Abitur. After school I moved to Osnabrück, Germany to study *Wirtschaftsinformatik (Information Systems)* at the University of Osnabrück. During my Bachelor I got the opportunity to take part in semester abroad at the *University of Jyväskylä* in *Jyväskylä, Finland*, where I got chance the take various Computer Science courses and take a more technical approach to Information Systems. After receiving my Bachelor's degree in 2011 I decided to further continue...
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+## Skills
 
-<h2>Skills</h2>
+* Android development
+* Bash
+* C#
+* Cluster computing
+* Data visualisation
+* Docker
+* Git
+* Java
+* LaTeX
+* MSSQL
+* Machine learning
+* MySQL
+* OpenCV
+* Project management
+* Python
+* R
+* SAP SCM
+* Statistics
+* System administration
+* UNIX
+* Virtual machines
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+## Projects
 
-<h2>Projects</h2>
+### [nmmso.R](https://github.com/jhoffjann/nmmso.R) - Seminar
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+During a university seminar around R development, I co-developed an implementation of [NMMSO](http://ieeexplore.ieee.org/document/6900309/), a multimodal optimization method.
+
+### Ideal Customer Profile - Project Seminar
+
+During the Summer Term 2016, I participated in this project seminar. We took a data-driven approach to identify the Ideal Customer Profile for [Hellmann Worldwide Logistics](http://www.hellmann.net/en/germany/).
+
+### [Object Recognition with Google Glass](https://github.com/jhoffjann/Bachelorarbeit) - Bachelor Thesis
+
+As part of my Bachelor Thesis, I developed an application for Google Glass. This app communicates with a simple Java web server (based on OpenCV) and is able to recognize previously saved objects based on provided photos.
